@@ -57,8 +57,9 @@ Some children travelled only with a nanny, therefore parch=0 for them.
  - catplot (histogram)
  - catplot (point graph)
  - kdeplot
+ - hexplot
+ - countplot
 
 
-TBD
 
 
