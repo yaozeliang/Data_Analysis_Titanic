@@ -54,9 +54,9 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 ### Plots used
 
 > **Seaborn**
- - catplot ( factor plot in older version )
+ - catplot (histogram)
+ - catplot (point graph)
  - kdeplot
- - 
 
 
 TBD
